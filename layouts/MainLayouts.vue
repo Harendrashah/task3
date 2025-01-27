@@ -1,6 +1,6 @@
 <script setup>
 // import FooterPage from "./layouts/FooterPage.vue";
-import NavBar from './NavBar.vue';
+import NavBar from './components/AppNav/NavBar.vue';
 </script>
 
 <template>

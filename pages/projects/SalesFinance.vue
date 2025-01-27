@@ -14,7 +14,7 @@
               <img
                 class="w-auto"
                 src="https://sandbox-tailwind-template.netlify.app/assets/img/illustrations/i4.png"
-                srcset="../../assets/img/illustrations/i4@2x.png 2x"
+                srcset="@/assets/img/illustrations/i4@2x.png 2x"
                 alt="image"
               />
             </figure>

@@ -23,7 +23,7 @@
             >
               <img
                 class="w-full"
-                src="../../assets/img/photos/blurry.png"
+                src="@/assets/img/photos/blurry.png"
                 alt="image"
               />
             </div>
